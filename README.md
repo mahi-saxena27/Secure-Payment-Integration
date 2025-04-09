@@ -14,4 +14,4 @@
 
 This is a simple payment integration in Ecommerce App Project which allows user to pay the amount by their card.
 
-*output* = 
+*output* = ![Image](https://github.com/user-attachments/assets/8f9150aa-088a-44f2-b8bd-6694b5f55259)
